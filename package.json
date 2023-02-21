@@ -1,0 +1,24 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "a javascript project using socket.io to make a chat-app",
+  "main": "app.js",
+  "engines": {
+    "node": "18.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+  "keywords": [
+    "javascript",
+    "socket.io"
+  ],
+  "author": "finnsterfran",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1"
+  }
+}

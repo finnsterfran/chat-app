@@ -1,0 +1,15 @@
+.test {
+    font-size: 10rem;
+}
+
+span {
+    font-size: 4rem !important;
+}
+
+nav {
+    height: 6rem;
+}
+
+#mainWrap {
+    display: none;
+}
